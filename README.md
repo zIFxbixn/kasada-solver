@@ -1,12 +1,11 @@
 # kasada-solver
-Kasada SDK full solver [Still working]
+Kasada SDK Full Solver [Working]
 
-reversed kasada anti bot vm 
+Reversed Kasada Anti-Bot VM
 
-cd & ct 
-decent solve speed, more threads will be faster 
+Good solve speed with CD & CT; performance scales with more threads.
 
-contact me on discord if your interested @zfxbixn
+If you're interested, contact me on Discord: @zfxbixn
 
 https://github.com/user-attachments/assets/23aa0b9e-276f-48b6-916d-c33831890690
 
